@@ -1,0 +1,33 @@
+/** 
+ * @namespace Packet
+ * @description Class for creating & accessing modules in cheat menu
+ */
+
+/** 
+ *  @class TextPacket
+ *  @memberof Packet
+ *  @instance
+ *  @summary Class for creating and working with modules
+ *  @param {String} name Module name
+ *  @param {Boolean} isToggleable Makes module toggleable
+ *  @param {Boolean} isBindable Makes module bindable
+ *  @param {String|ModuleCategory} category Module's category in cheat menu
+ */
+TextPacket = function() { } 
+
+/** 
+ * @method
+ * @memberof TextPacket
+ * @instance
+ * @returns String Module name
+ */
+function getName() { }
+
+/** 
+ * @method
+ * @memberof TextPacket
+ * @static
+ * @argument {string} moduleName 
+ * @returns String Module name
+ */
+function isActive(moduleName) { }

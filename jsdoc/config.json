@@ -6,7 +6,8 @@
         "dictionaries": ["jsdoc","closure"]
     },
     "templates": {
-        "applicationName": "VariablePE-API",
+        "meta": { "title": "VariablePE API" },
+        "applicationName": "VariablePE API",
         "cleverLinks": false,
         "monospaceLinks": false,
         "default": {

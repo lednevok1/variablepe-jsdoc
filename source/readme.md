@@ -7,4 +7,4 @@ idi nahui dokumentastiya sleva
 - examples
 - отсос
 
-### Feedback and other shit: t.me/lednevok1 | t.me/variablediscussion
+### Feedback and other shit: **psxsi**| t.me/variablediscussion
